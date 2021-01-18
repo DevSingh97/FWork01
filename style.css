@@ -1729,6 +1729,10 @@ header {
         width: 19px;
         height: 18px;
     }
+    #google{
+        width: 70px;
+        margin-bottom: -2px;
+    }
     .section-one-content__gr{
         font-size: 12px;
         font-weight: 400;
